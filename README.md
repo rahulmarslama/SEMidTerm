@@ -1,4 +1,4 @@
-# SEQuiz1
+# SEMidterm
 
 This repository contains the SE midterm project.
 
