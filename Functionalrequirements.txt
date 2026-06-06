@@ -1,0 +1,9 @@
+1. The system can book appointments for patients with a dentist, surgery location, date, and time.
+
+2. The system sends a confirmation email after an appointment is booked.
+
+3. Dentists can view their scheduled appointments.
+
+4. Patients can view, cancel, or change their appointments.
+
+5. The system prevents invalid bookings, such as more than 5 appointments per dentist per week or booking for patients with unpaid bills older than 12 months.

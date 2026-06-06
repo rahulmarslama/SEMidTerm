@@ -1,0 +1,8 @@
+1. As an Office Clerk,
+I want to book an appointment for a patient with a dentist at a surgery location,
+so that the patient can receive dental treatment at a scheduled date and time.
+
+
+2. As a Patient,
+I want to view my appointments,
+so that I can know the date, time, and details of my scheduled dental visits.
